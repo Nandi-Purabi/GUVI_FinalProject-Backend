@@ -1,1 +1,28 @@
-hh
+create database E_Commerce_Kaya_Fashions;
+use E_Commerce_Kaya_Fashions;
+
+create table products(
+product_id int identity(1,1) PRIMARY KEY,
+product_code varchar(10),
+product_type varchar(30),
+category varchar(20),
+quantity_available int,
+price float,
+discount_percent int,
+product_img_src varchar(1000),
+product_info varchar(500));
+
+create table users(
+userID int identity(1,1) PRIMARY KEY,
+userName varchar(150),
+userEmail varchar(100),
+userPassword varchar(200));
+
+create table user_cart(
+userID int NOT NULL,
+product_id int NOT NULL,
+buy_quantity int);
+
+
+ALTER TABLE user_cart
+ADD PRIMARY KEY (userID,product_id);
