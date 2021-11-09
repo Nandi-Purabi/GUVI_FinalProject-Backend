@@ -1,0 +1,228 @@
+insert into products values('WF1','Jacket','Women',100,1213.67,10,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/5492286/2019/9/30/7095cb8d-c448-402a-9979-cc9879064b4a1569841689006-Roadster-Women-Navy-Solid-Padded-Jacket-8201569841687608-1.jpg','Navy Blue Puff Jacket');
+insert into products values('WF1','Jacket','Women',59,1570,0,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/23163/208791/Women-Coat-Fashion-Ladies-Retro-Rivet-Zipper-Up-Bomber-Jacket-Casual-Coat-Outwear-Winter-Jacket-Women__05912.1548156368.jpg?c=2?imbypass=on','Rivet Bomber Jacket');
+insert into products values('WF1','Jacket','Women',150,899,0,'https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7371458/2018/11/12/c2515544-f7ee-4538-9f72-fd79dcbe15961542003256477-HERENOW-Women-Jackets-6011542003255450-1.jpg','HERENOW Denim Jacket');
+insert into products values('WF1','Jacket','Women',0,1699,20,'https://cdn.shopify.com/s/files/1/0508/5793/5004/products/j1_6bb6143c-887f-460a-bcb1-0c1278a30978_500x500.jpg?v=1622284399','Brown Leather Buttoned Jacket');
+insert into products values('WF1','Jacket','Women',30,5674.99,12,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14779674/2021/8/6/e4a1ec5d-16c9-45e1-ac89-713b373526db1628245116782-Calvin-Klein-Jeans-Women-Jackets-4751628245115960-1.jpg','Calvin Klein Yellow Jacket');
+insert into products values('WF1','Jacket','Women',50,1100,0,'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-720w,f_auto,q_auto:best/newscms/2020_51/3436191/4166jf0x1gl-5fda4e8a0a921.jpg','Women Fur Winter Jacket');
+insert into products values('WF1','Jacket','Women',0,1800.18,30,'https://5.imimg.com/data5/CE/DN/MY-42404537/ladies-leather-jacket-500x500.jpg','Ladies Leather Jacket');
+insert into products values('WF1','Jacket','Women',60,999,0,'https://lureurban.in/image/cache/catalog/gallery/women-jacket-sky-blue-800x1000.jpg','Women Sky Blue Fur Jacket');
+
+insert into products values('WF2','Summer','Women',6,789,0,'https://www.herstylecode.com/2017/06/15-cool-stylish-summer-outfits-for-stylish-women-1.jpg','Women V Neck Top');
+insert into products values('WF2','Summer','Women',90,899,0,'https://www.outfit-styles.com/wp-content/uploads/2020/08/Casual-Summer-Outfit-for-Women.jpg','White Round Neck Top');
+insert into products values('WF2','Summer','Women',0,2170,20,'https://images.bewakoof.com/utter/content/4065/content_Rompers.jpg','Women Red Romper');
+
+insert into products values('WF3','Winter','Women',70,1233,0,'https://i.pinimg.com/originals/f6/26/01/f6260105fa06be9e890a46be645966a9.jpg','Beige Fur Winter Jacket');
+insert into products values('WF3','Winter','Women',90,988.99,5,'https://img.buzzfeed.com/buzzfeed-static/static/2018-12/14/11/asset/buzzfeed-prod-web-04/sub-buzz-25745-1544804259-1.jpg?crop=1000%3A1357%3B0%2C41&downsize=700%3A%2A&output-quality=auto&output-format=auto','Black Puff Fur Jacket');
+insert into products values('WF3','Winter','Women',10,1544,5,'https://img3.junaroad.com/uiproducts/18030407/pri_175_p-1633963048.jpg','Women Fur Belted Jacket');
+
+insert into products values('WF4','Top','Women',3,289,0,'https://m.media-amazon.com/images/I/41CStKlpWML.jpg','Women White Casual Top');
+insert into products values('WF4','Top','Women',17,380,0,'https://m.media-amazon.com/images/I/51Jb2QYlC3L._UX466_.jpg','Women Grey Pocket Top');
+insert into products values('WF4','Top','Women',0,900,20,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/23630/213601/new-women-tops-and-blouse-2018-fashion-chiffon-blouse-long-sleeve-solid-color-female-tops-shirt__96723.1548399862.jpg?c=2?imbypass=on','Chiffon Grey Ruffle Sleeve');
+
+insert into products values('WF5','Formal','Women',6,1900,0,'https://ds393qgzrxwzn.cloudfront.net/resize/m600x500/cat1/img/images/0/v4MbkrAHcK.jpg','Slim Fit Women Formal');
+insert into products values('WF5','Formal','Women',70,3899,25,'https://5.imimg.com/data5/SY/WM/EL/ANDROID-58162597/1572857757623-jpg-500x500.jpg','Brown Elegant Women Suit');
+insert into products values('WF5','Formal','Women',61,789,0,'https://5.imimg.com/data5/SELLER/Default/2021/1/GD/QX/WN/80988091/women-formal-wear-500x500.jpg','Grey Stiped Slim Suit');
+
+insert into products values('WF6','Skirt','Women',6,789,0,'https://allensolly.imgix.net/img/app/product/4/474330-3390957.jpg','Pocketed Bow Belted Skirt');
+insert into products values('WF6','Skirt','Women',0,1200,10,'https://assets.abfrlcdn.com/img/app/product/5/511192-3841674-large.jpg','Peach Chiffon Midi Skirt');
+insert into products values('WF6','Skirt','Women',3,845,0,'https://rukminim1.flixcart.com/image/714/857/kfcv6vk0/skirt/u/d/y/free-skt-030-cotton-india-original-imafvtgdvermyupz.jpeg?q=50','Green Long Skirt');
+
+insert into products values('WF7','Dress','Women',45,680,0,'https://3.imimg.com/data3/KT/WO/MY-4080282/48121c6a061f4549c033d6ee8894c411-500x500.jpg','Multicolor Striped Dress');
+insert into products values('WF7','Dress','Women',19,920,5,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/10856160/2019/11/5/f0172470-408a-4b8b-a1e5-045bd98a5f8b1572938035104-SASSAFRAS-Women-Dresses-9581572938032856-1.jpg','Black Floral Chiffon Dress');
+insert into products values('WF7','Dress','Women',100,1466.99,0,'https://img.faballey.com/Images/Product/DRS04453Z/d3.jpg','Waist Cut Stylish Dress');
+
+insert into products values('WF8','Shirt','Women',63,890,0,'https://img.joomcdn.net/851014c04240527f080bd6ce28eefd3bf9948d71_original.jpeg','Shiny White Women Shirt');
+insert into products values('WF8','Shirt','Women',5,666.66,10,'https://5.imimg.com/data5/NL/OR/MY-11864257/womens-casual-shirt-500x500.jpg','Women Checked Shirt');
+insert into products values('WF8','Shirt','Women',25,907,20,'https://media.boerandfitch.com/27667-large_default/womens-shirt-black-checked.jpg','Black & White Striped');
+
+insert into products values('WF9','Jeans','Women',6,500,0,'https://rukminim1.flixcart.com/image/714/857/kfoapow0-0/jean/g/i/v/32-fashion-6-charming-boutique-original-imafw2g4gjbd6ztd.jpeg?q=50','Printed Cool Jeans');
+insert into products values('WF9','Jeans','Women',0,1344,5,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/8803831/2019/8/7/b4930287-fa53-4941-802c-db7892e928871565177308477-Roadster-Women-Navy-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stre-1.jpg','GAP Women Blue Jeans');
+insert into products values('WF9','Jeans','Women',19,705.99,0,'https://pantaloons.imgix.net/img/app/product/4/425479-2635594.jpg','Blue Shade Ladies Jeans');
+
+insert into products values('WF10','Ethnic','Women',60,1900,0,'https://rukminim1.flixcart.com/image/714/857/k5vcya80/kurti/8/c/k/xxl-kavya-m-kd-original-imafkpycummhnrfr.jpeg?q=50','Anarkali Women Ethnic');
+insert into products values('WF10','Ethnic','Women',69,1466,0,'https://rukminim1.flixcart.com/image/714/857/jri3jww0/ethnic-set/y/y/x/xxl-ya4398-aks-original-imafd3fv8yqbzcpx.jpeg?q=50','Olive Green Long Kurti');
+insert into products values('WF10','Ethnic','Women',55,2500,0,'https://miro.medium.com/max/477/1*5vS4-QyHK1oCJPhJm30nUQ.jpeg','Black & Maroon Lehenga');
+insert into products values('WF10','Ethnic','Women',0,980,10,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2322979/2018/2/13/11518506064968-Anouk-Women-Peach-Coloured-Printed-Straight-Kurta-6851518506064751-1.jpg','Peach Embroidery Kurti');
+
+
+insert into products values('WF11','Saree','Women',3,1266,0,'https://hashrail.sgp1.cdn.digitaloceanspaces.com/CND/Product/large/CND1928_2.jpg','Pure Cotton Saree');
+insert into products values('WF11','Saree','Women',6,1333.99,0,'https://cdn1.ninecolours.com/image/cache/products-2018/October/Indian-Women-Georgette-Designer-Saree-In-Green-and-Black-Colour-SR0062217-A-1200x1799.jpg','Sea Green Chiffon Saree');
+insert into products values('WF11','Saree','Women',70,789,10,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/9329195/2019/4/29/4d198622-7f40-4a7f-9079-1415028f51041556516084653-Indian-Women-mustard-color-two-tone-silk-fabrics-Saree-34155-1.jpg','Golden Georgette Saree');
+
+insert into products values('WF12','Shoes','Women',61,1300,0,'https://image.made-in-china.com/202f0j00DkqUSacdrjbo/Amazon-New-Arrival-Stylish-Women-Shoes-Ladies-Casual-Sneaker-Sports-Shoes-for-Women.jpg','Casual Sport Sneakers');
+insert into products values('WF12','Shoes','Women',0,1111.99,0,'https://p.globalsources.com/IMAGES/PDT/B1178153830/sneaker.jpg','Baby Pink Laced Sneaker');
+insert into products values('WF12','Shoes','Women',99,470,10,'https://4.imimg.com/data4/AD/EN/MY-14643139/ladies-casual-shoes-500x500.jpg','Ladies Casual Shoes');
+
+insert into products values('WF13','Western','Women',90,689.99,0,'https://www.coverstory.co.in/media/cms/home/category/work.jpg','Red Georgette Top');
+insert into products values('WF13','Western','Women',12,350,30,'https://ciceroni.in/Lounge/wp-content/uploads/2018/04/red-slip-top-with-ruffles-western-wear-by-westside.jpeg','Red Slip Ruffle Top');
+
+insert into products values('WA1','Earring','Women',60,690,5,'https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-824,/pub/media/catalog/product/o/s/osxxute18_1.jpg?rnd=20200526195200 ','Oxidised Blue Plated Earrings');
+insert into products values('WA1','Earring','Women',10,555,10,'https://www.fashioncrab.com/wp-content/uploads/2020/09/Golden-Chain-Earrings-for-Women-1200x1200.jpg ','Classic Gold Touch Earring');
+insert into products values('WA1','Earring','Women',0,1000,0,'https://assetscdn1.paytm.com/images/catalog/product/J/JE/JEWOMAYA-BIG-JHAASH1062311665690B2/1609566976289_0..jpg?imwidth=320&impolicy=hq ','Dark Oxisied Metal Earring');
+
+insert into products values('WA2','Bracelet','Women',600,400,0,'https://m.media-amazon.com/images/I/61JNAzCKcdL._UY500_.jpg','Golden Touched Bracelet');
+insert into products values('WA2','Bracelet','Women',800,1500,0,'https://m.media-amazon.com/images/I/71jk+skSNFL._UL1500_.jpg','Golden Peacock Style Bracelet');
+insert into products values('WA2','Bracelet','Women',1000,700,20,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2026485/2021/6/15/f9454f3b-688e-426e-afa9-59b2f40f5f6b1623743417575-YouBella-Rose-Gold-Toned--Peach-Coloured-Floral-Stone-Studde-11.jpg','Pink Flowered Bracelet');
+
+insert into products values('WA3','Watch','Women',0,580,0,'https://5.imimg.com/data5/SELLER/Default/2020/10/QO/AW/WR/48866434/13-500x500.jpg','Peach Charm Watch');
+insert into products values('WA3','Watch','Women',1000,2500,10,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/10258/98564/KOVONSH-Luxury-Fashion-Women-Watches-Lady-Watch-Stainless-Steel-Dress-Women-Watch-Quartz-Wrist-Watches-Gift__63368.1575259632.jpg?c=2?imbypass=on','Kovonsh Golden Silver Watch');
+insert into products values('WA3','Watch','Women',100,300,0,'https://m.media-amazon.com/images/I/51LTJjshaIL._UL1100_.jpg', 'Black Golden Women Watch');
+
+insert into products values('WA4','Necklace','Women',100,330,0,'https://images-static.nykaa.com/media/catalog/product/3/a/3aa41bbct-nck-44089_1.jpg?tr=w-500,pr-true ', ' Golden Layered Piece');
+insert into products values('WA4','Necklace','Women',1,5300,10,'https://rukminim1.flixcart.com/image/714/857/kddf6a80/necklace-chain/n/r/h/fk-n8-necklace-oh-wow-original-imafu9zcashmcup4.jpeg?q=50 ', 'Gold Plated Necklace');
+insert into products values('WA4','Necklace','Women',5,2905,13,'https://www.muchmore.co.in/pub/media/catalog/product/cache/77256aaac947d94e5c0b30b852b005f6/r/s/rs-67_1_.jpg ', 'Choker Stone Set');
+
+insert into products values('WA5','Ring','Women',5,8300,0,'https://m.media-amazon.com/images/I/41Lqwl8oIdL.jpg', 'Platinum Plated Ring');
+insert into products values('WA5','Ring','Women',2,5500,0,'https://staticimg.titan.co.in/Mia/Catalog/552819FRRAE22_1.jpg?impolicy=pqmed&imwidth=640', 'Thin Gold Plated Ring');
+insert into products values('WA5','Ring','Women',1,1400,5,'https://img.joomcdn.net/1e7b82bb4f377c765ee29ec3665b07208dc6539f_original.jpeg', 'Classic Gold Ring');
+
+insert into products values('WA6','Bag','Women',0,1000,0,'https://image.made-in-china.com/202f0j00PtTUcifGjzgO/Btl-10145-Leather-Bags-Women-Handbags-Shoulder-Ladies-Handbags-Women-Bag.jpg', 'Brown Fashion Bag');
+insert into products values('WA6','Bag','Women',8,2100,10,'https://m.media-amazon.com/images/I/61RSyB+kbzL._AC_UL1200_.jpg', 'Cream Coloured Bag');
+insert into products values('WA6','Bag','Women',0,2300,30,'https://m.media-amazon.com/images/I/41TgmglqKSL.jpg','Grey Combo Bags');
+insert into products values('WA6','Bag','Women',3,900,0,'https://image.made-in-china.com/202f0j00MhbRkildfYqj/Women-Handbags-Famous-Top-Handle-Brands-Women-Bags-Purse-Messenger-Shoulder-Bag-High-Quality-Ladies-Feminina-Luxury-Pouch.jpg','Multicoloured Luxury Bag');
+
+insert into products values('WA7','Belt','Women',100,2200,30,'https://m.media-amazon.com/images/I/61G39zB2XCL._UX679_.jpg', 'Black Silver Belt');
+insert into products values('WA7','Belt','Women',100,590,0,'https://5.imimg.com/data5/SELLER/Default/2021/5/QW/VO/DL/2597485/ladies-fancy-belt-500x500.jpg', 'Brown Knitted Belt');
+insert into products values('WA7','Belt','Women',0,399.99,0,'https://assets.ajio.com/medias/sys_master/root/20210628/szRX/60da31d4aeb269a9e32d7aaa/-473Wx593H-461435889-black-MODEL.jpg', 'Dark Brown Thin Belt');
+
+insert into products values('WA8','Sunglass','Women',100,800,0,'https://royalson.in/wp-content/uploads/2020/04/1-71.jpg', 'Royalson Brown Shades');
+insert into products values('WA8','Sunglass','Women',10,1604.88,0,'https://cdn.shopify.com/s/files/1/0092/2969/7086/files/SW.png?v=2080021157992438251', 'Elegant Ladies Fashion Goggles');
+insert into products values('WA8','Sunglass','Women',0,1099,25,'https://m.media-amazon.com/images/I/61MNSkuB5CL._UL1500_.jpg', 'Blue Shaded UV Protect');
+
+insert into products values('WA9','Cap','Women',100,1101.11,0,'https://imgs7.luluandsky.com/fit-in/707x1000/c46a684c-ab42-4e06-b225-5637924b47b3/catalog/product/8/9/8907813029100__1_.jpg-make_first_shot.jpg', 'Baby Pink Women Cap');
+insert into products values('WA9','Cap','Women',1000,1300,0,'https://image.made-in-china.com/202f0j00MmVaubPEYpzO/Summer-Women-Mesh-Cap-Ponytail-Baseball-Caps-Fashion-Snapback-Caps-for-Women-Man-Sport-Hat-Unisex-Bone-Dropshipping.jpg', 'Pink Netted Women Cap');
+insert into products values('WA9','Cap','Women',0,800,10,'https://n1.sdlcdn.com/imgs/h/f/l/Ponytail-Baseball-Cap-Women-Messy-SDL450437179-1-7011f.jpg', 'Black Netted Women Cap');
+
+insert into products values('MF1','Jacket','Men',25,2100,25,'https://i.pinimg.com/564x/65/0b/df/650bdf10291c68f06deb90fede5b4d94.jpg','Men Black Leather Jacket');
+insert into products values('MF1','Jacket','Men',70,1989.99,0,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/16058/152201/Brand-Clothing-Jacket-Men-Fashion-Mens-Spring-Jacket-Casual-Slim-Fit-Outerwear-Fleece-Men-s-Jackets__29482.1544765966.jpg?c=2?imbypass=on','Casual Slim Fit Jacket');
+insert into products values('MF1','Jacket','Men',20,890,0,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/4453297/2019/12/2/77b5d9e0-8d65-4a36-94e7-290ed271db6b1575267599079-HRX-by-Hrithik-Roshan-Men-Olive-Green-Solid-Active-Bomber-Ja-1.jpg','Olive Green Bomber Jacket');
+
+insert into products values('MF2','Formal','Men',100,1500,10,'https://rukminim1.flixcart.com/image/332/398/kst9gnk0/shirt/v/w/g/xl-men-slim-fit-solid-mandarin-collar-casual-shirt-mildin-original-imag6as39kddzppv.jpeg?q=50','Mandarin Collar Black Shirt');
+insert into products values('MF2','Formal','Men',0,900,0,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2276928/2018/1/30/11517289953145-INVICTUS-Men-Black-Slim-Fit-Solid-Formal-Trousers-1521517289953034-1.jpg','Slim Fit Solid Black Trouser');
+insert into products values('MF2','Formal','Men',50,3500.80,5,'https://i.pinimg.com/originals/56/c8/f9/56c8f9b051331122b46af89c64bb844b.jpg','Beige Checked Coat');
+
+insert into products values('MF3','Suit','Men',100,4786.77,10,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/7682/70083/High-Quality-Men-black-gold-tuxedo-men-suit-black-3-pieces-mens-formal-suits-costume-homme__77243.1527763503.jpg?c=2','High Quality Black Tuxedo');
+insert into products values('MF3','Suit','Men',70,3999,0,'https://cdn.shopify.com/s/files/1/0118/6706/2330/products/HTB1xjWbXZfrK1RjSszcq6xGGFXa4_580x.jpg?v=1573268739','Oxford Blue Checked Coat');
+
+insert into products values('MF4','Tie','Men',30,700,10,'https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1602707854-e32f501c-ceff-4c5a-b48c-f7b2b2508ed8.jpg','Blue Dotted Tie');
+insert into products values('MF4','Tie','Men',60,1200,0,'https://m.media-amazon.com/images/I/71OO1hnArgL._UX569_.jpg','Vintage Floral Print Tie');
+insert into products values('MF4','Tie','Men',100,555.87,0,'https://m.media-amazon.com/images/I/51-Ilg6ZrUL.jpg','High Quality Blue Tie');
+
+insert into products values('MF5','Summer','Men',0,1700,0,'https://i2.wp.com/newmensstyles.com/wp-content/uploads/2021/05/Best-Summer-Outfits-For-Men-2021-Mens-Summer-Outfits-ideas-Summer-Fashion-2021-New-Mens-Styles-11.jpg?fit=820%2C1024&ssl=1','Summer T-Shirt Short Combo');
+insert into products values('MF5','Summer','Men',80,680,10,'https://asset1.cxnmarksandspencer.com/is/image/mands/20210310_LF_MW_SUMMER-STYLE_EW_02?$editorial_780x780$','Summer Floral Shirt');
+insert into products values('MF5','Summer','Men',50,400,12,'https://image.made-in-china.com/2f0j00aoIGBsWqfwkv/Colorful-Pattern-Printed-Beach-Men-Summer-Shorts-with-Wholesale-Price.jpg','Colorful Printed Beach Short');
+
+insert into products values('MF6','Shirt','Men',100,765,0,'https://www.stylesofman.com/wp-content/uploads/2019/06/90808a7da07c7140d714245459c0cd99.jpg','Casual Full Sleeve Shirt');
+insert into products values('MF6','Shirt','Men',145,1500,20,'https://5.imimg.com/data5/GH/TM/OE/SELLER-18842120/img-20190823-wa0018-500x500.jpg','X-Men Sky Blue Shirt');
+insert into products values('MF6','Shirt','Men',25,788.99,10,'https://www.shopperwear.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/n/e/new-spring-double-pocket-mens-fashion-shirt-brand-men-long-sleeved-solid-shirts-slim-fit-casual-men-shirt-social-extra-image-2_1.jpg','Spring Double Pocket Shirt');
+
+insert into products values('MF7','T-Shirt','Men',200,460.99,0,'https://rukminim1.flixcart.com/image/714/857/ke4kjgw0-0/t-shirt/r/w/x/s-101-try-this-original-imafuvgbqkvhtmwp.jpeg?q=50','Multicolor Striped T-Shirt');
+insert into products values('MF7','T-Shirt','Men',120,389,0,'https://4.imimg.com/data4/NE/LG/MY-812484/men-s-trendy-t-shirt-500x500.jpg','Modern Black & White T-Shirt');
+insert into products values('MF7','T-Shirt','Men',80,500,20,'https://5.imimg.com/data5/YW/KI/MY-38885591/mens-full-sleeves-t-shirt-3-500x500.jpeg','V Black & White T-Shirt');
+
+insert into products values('MF8','Jeans','Men',100,1500,0,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/15132/146071/Sulee-Brand-Men-Spring-Summer-Jeans-Denim-Mens-Jeans-Slim-Fit-Plus-Size-to-40-Big__06722.1544531258.jpg?c=2?imbypass=on','Sulee Denim Jeans');
+insert into products values('MF8','Jeans','Men',60,1700.99,10,'https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/10092105/2019/10/15/11e8597e-85a5-4dcd-a40a-dc9647e1b89a1571142731707-Roadster-Men-Jeans-5221571142730946-1.jpg','Roadster Men Jeans');
+insert into products values('MF8','Jeans','Men',80,1260,0,'https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPED-HARDY-GREARVI763657BDB33CFC/1617702931185_0..jpg','Apped Hardy Ash Jeans');
+
+insert into products values('MF9','Winter','Men',80,1800,10,'https://theindiangent.in/wp-content/uploads/2019/11/y23hp7-l-610x610-galla-blogger-sunglasses-greysweater-trendy-menswear-mensjacket-winteroutfits-sweater-shoes-hat-jacket-menscableknitjumper-mensderbyshoes-greybeanie.jpg','Winter Grey Sweater');
+insert into products values('MF9','Winter','Men',100,2100,0,'https://flyingcdn-942385.b-cdn.net/wp-content/uploads/2020/10/Mens-Winter-Fashion-Parka-min.jpg','White Fur Winter Jacket');
+
+insert into products values('MF10','Ethnic','Men',12,1800,5,'https://rukminim1.flixcart.com/image/714/857/k4hcjgw0/ethnic-set/u/g/p/44-trail-kpc-bontebok-original-imafmhybhfmzjbwy.jpeg?q=50','Shiny Blue Men Kurta');
+insert into products values('MF10','Ethnic','Men',94,3400.69,0,'https://static01.manyavar.com/uploads/homepagetemplates/images/men_sherwani.jpg','Sheen Green Sherwani');
+insert into products values('MF10','Ethnic','Men',56,2890,7,'https://rukminim1.flixcart.com/image/714/857/jq8dgnk0/ethnic-set/u/9/h/l-new-sjr-lk-093-dh-1101-nj-511-40-sojanya-original-imafcaq2fe8n8gbf.jpeg?q=50','Maroon Dhoti & Kurta');
+
+insert into products values('MF11','Shoes','Men',0,800,0,'https://smhttp-ssl-64590.nexcesscdn.net/media/magpleasure/mpblog/list_thumbnail_file/f/e/cache/1/119bdf99710d9a86013f24c82ab9b2da/fe4715864a082b34f74d1ccf84568830.jpg','Men Black Loafers');
+insert into products values('MF11','Shoes','Men',70,1099,10,'https://5.imimg.com/data5/ANDROID/Default/2021/2/LP/UY/YF/123847091/product-jpeg-500x500.jpg','Men Black Sports Shoe');
+insert into products values('MF11','Shoes','Men',120,1560,15,'https://m.media-amazon.com/images/I/51TxqmHOowL.jpg','Black Leather Formal Shoes');
+insert into products values('MF11','Shoes','Men',180,1670.99,15,'https://resize.indiatvnews.com/en/resize/newbucket/715_-/2017/01/mens-leather-boots-8-1484827592.jpg','Brown Leather High Boots');
+
+
+insert into products values('MA1','Cap','Men',30,380,0,'https://m.media-amazon.com/images/I/71vPr8QApwL._SL1500_.jpg','NY Denim Cap');
+insert into products values('MA1','Cap','Men',80,870.69,10,'https://rukminim1.flixcart.com/image/400/400/j69mz680/cap/8/j/z/free-fas599-fas-original-imaewqr783e43jsm.jpeg?q=90','Linkin Park Cap');
+insert into products values('MA1','Cap','Men',10,999.99,15,'https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/052911/52/fv/fnd/IND/fmt/png','Dark Pink Puma Cap');
+
+insert into products values('MA2','Bracelet','Men',0,350,0,'https://assets.ajio.com/medias/sys_master/root/20210627/Kasi/60d9b57aaeb269a9e325b5dd/-473Wx593H-461438586-multi-MODEL.jpg','Multicolor Cool Men Bracelet');
+insert into products values('MA2','Bracelet','Men',70,466,10,'https://i.pinimg.com/736x/5c/19/d3/5c19d33a991dc0a017aa0cea69febd82--mens-accessories-bracelets-men.jpg','Black Round Belt Bracelet');
+insert into products values('MA2','Bracelet','Men',69,787,0,'https://visionarypirate.in/wp-content/uploads/2020/12/LV019.jpg','Golden Metal Bracelet');
+
+insert into products values('MA3','Chain','Men',150,800,0,'https://img.ltwebstatic.com/images3_pi/2020/12/30/1609308664d5cc8313ac40cd3349800dc33934f421.webp','Golden Metal Layer Chain');
+insert into products values('MA3','Chain','Men',70,780.99,10,'https://alitools.io/en/showcase/image?url=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FHd899f9229b7641e984886b126f609e8bN.jpg_480x480.jpg','Silver Men Layer Chain');
+insert into products values('MA3','Chain','Men',120,1345,15,'https://4.imimg.com/data4/HF/BV/GLADMIN-1873114/a-500x500.jpg','Men Dog Tag Chain');
+
+insert into products values('MA4','Ring','Men',150,2300,0,'https://www.boutiqueottoman.com/wp-content/uploads/2014/12/Classic-Aqeeq-Silver-Ring-01.jpg','Boutique Attoman Red Ring');
+insert into products values('MA4','Ring','Men',70,1099,10,'https://img.joomcdn.net/9282fc5001e63d3b73376f0ba1c82c812d3c85e0_original.jpeg','Golden Stone Men Ring');
+insert into products values('MA4','Ring','Men',120,2000.51,15,'https://www.boutiqueottoman.com/wp-content/uploads/2019/03/Black-Onyx-Tughra-Ring-Silver.jpg','Boutique Attoman Black Ring');
+insert into products values('MA4','Ring','Men',19,1990.99,0,'https://static-01.daraz.lk/p/ee48758b7cbc16dd871ba963af1cbf1d.jpg','Blue & Gold Combo Rings');
+
+insert into products values('MA5','Watch','Men',120,1899.99,15,'https://assetscdn1.paytm.com/images/catalog/product/W/WA/WATTISWAQ-FITNESWAT1160489730DF287/0..jpg','Black Belt Smart Watch');
+insert into products values('MA5','Watch','Men',0,1270,15,'https://m.media-amazon.com/images/I/51oldet9suL.jpg','Swiss Style Analog Watch');
+insert into products values('MA5','Watch','Men',35,1310,15,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/29101/271573/Curren-Mens-Watches-Top-Brand-Luxury-Chronograph-Men-Watch-Leather-Luxury-Waterproof-Sport-Watch-Men-Male__19620.1583927952.jpg?c=2','Curren Analog Blue Watch');
+insert into products values('MA5','Watch','Men',14,2600,20,'https://images-eu.ssl-images-amazon.com/images/I/618MEYCaUQL._AC._SR360,460.jpg','Men Black Smart Watch');
+
+insert into products values('MA6','Bag','Men',150,2800,0,'https://fossil.scene7.com/is/image/FossilPartners/MBG9455222_main?$sfcc_fos_medium$','Men Brown Leather Bag');
+insert into products values('MA6','Bag','Men',70,1499,5,'https://5.imimg.com/data5/FH/JH/MY-5467413/brown-laptop-bags-500x500.jpg','Brown Laptop Bag');
+
+
+insert into products values('MA7','Wallet','Men',120,989.99,15,'https://m.media-amazon.com/images/I/51mvN2eU-5L.jpg','Black Pu-Leather Wallet');
+insert into products values('MA7','Wallet','Men',100,1600,9,'https://rukminim1.flixcart.com/image/714/857/k6i7zww0/wallet-card-wallet/j/3/p/rfid-protected-100-genuine-high-quality-mens-blue-hunter-leather-original-imafzxmsr9zg45vk.jpeg?q=50','Napa Hide Blue Wallet');
+insert into products values('MA7','Wallet','Men',180,1780,30,'https://img.joomcdn.net/431da7f0692376aae282ca81f2d3c93a5d1563de_original.jpeg','Men Brown Long Wallet');
+
+insert into products values('MA8','Belt','Men',0,1000,15,'https://5.imimg.com/data5/TQ/NK/MY-45888708/men-belts-500x500.jpg','Black Metal Hook Belt');
+insert into products values('MA8','Belt','Men',5,800,15,'https://m.media-amazon.com/images/I/91wCigDXGCL._UL1500_.jpg','Black & Brown Combo Belts');
+insert into products values('MA8','Belt','Men',10,1408,0,'https://cdn11.bigcommerce.com/s-pkla4xn3/images/stencil/1280x1280/products/11795/114912/DWTS-Men-s-belt-leather-belt-men-male-genuine-leather-strap-luxury-pin-buckle-casual__54824.1610453787.jpg?c=2?imbypass=on','Danweitesi Brown Belt');
+
+insert into products values('MA9','Sunglass','Men',0,290.16,0,'https://5.imimg.com/data5/LM/NU/MY-36086933/men-sunglasses-500x500.jpg','Men Blue Shades');
+insert into products values('MA9','Sunglass','Men',120,999,15,'https://looksgud.com/blog/wp-content/uploads/2019/12/aviator-shape-sunglasses.jpg','Silver Rim Black Aviator');
+insert into products values('MA9','Sunglass','Men',10,677,10,'https://nozzle.s3-ap-southeast-1.amazonaws.com/shop_99563/DANKEYISI-Unsex-Polarized-Sunglasses-Men-Luxury-Brand-Men-Sunglasses-2017-Hot-Sunglasses-Male-Female-Eyewear-Gafas_1537610364_jpg_640x640.jpg','DK UV Protect Sunglass');
+
+insert into products values('KF1','Shoes','Kids',5,870,0,'https://m.media-amazon.com/images/I/616zqBXOlaL._UL1500_.jpg','Navy Blue Laced LED');
+insert into products values('KF1','Shoes','Kids',60,1000.9,15,'https://5.imimg.com/data5/PW/DS/GT/SELLER-65814696/kids-shoes-500x500.jpg','Chained Denim Kids Shoes');
+insert into products values('KF1','Shoes','Kids',0,760,0,'https://thebeastreviews.com/wp-content/uploads/2020/01/YUNICUS-Kids-Light-Up-Shoes-Led-Flash-Sneakers.jpg','Spider-Man LED');
+insert into products values('KF1','Shoes','Kids',30,1800,10,'https://img.joomcdn.net/566ddf03fa67df0e6252041f0c7d40dfb7084f76_original.jpeg',' Kids White Sneakers');
+
+insert into products values('KF2','Ethnic','Kids',5,1770,0,'https://res.cloudinary.com/purnesh/image/upload/w_540,f_auto,q_auto:eco,c_limit/21604555004027.jpg','Girl Boy Ethnic Wear');
+insert into products values('KF2','Ethnic','Kids',8,1240,10,'https://5.imimg.com/data5/JZ/PK/AT/SELLER-7071255/kids-gown-500x500.jpg','Girl Festive Wear');
+insert into products values('KF2','Ethnic','Kids',34,900,0,'http://cdn.shopify.com/s/files/1/0584/2770/3448/collections/Catlog-Boys-Ethnic.jpg?v=1630047658','Boy Maroon Kurta');
+
+insert into products values('KF3','Western','Kids',10,2309,10,'https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2020/09/01/61eb2e2c-e5d6-11ea-8600-abe4f45458c9_972x_073639.jpg?itok=XwHaO-D8&v=1598917010','Double Color Top & Pant');
+insert into products values('KF3','Western','Kids',0,2800,0,'https://cf.shopee.ph/file/e09cff79a10020ed6251af9a7e7b228c','Pattern Print Combo');
+insert into products values('KF3','Western','Kids',0,1600,0,'https://cdn.shopify.com/s/files/1/0022/5345/5423/products/KultKid_033_2048x.jpg?v=1599462012','Kultkid Black Kids Wear');
+
+insert into products values('KF4','Gown','Kids',4,1150,6,'https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-824,/pub/media/catalog/product/f/a/fayon_kids_fk1437_1.jpg?rnd=20200526195200','One Side Sleevless Gown');
+insert into products values('KF4','Gown','Kids',8,4790,15,'https://5.imimg.com/data5/SELLER/Default/2021/1/VF/LV/LD/93721413/party-gown-dress-500x500.jpg','Emerald Velvet Princess Gown');
+
+insert into products values('KA1','Watch','Kids',4,800,0,'https://rukminim1.flixcart.com/image/714/857/jnnhua80/watch/z/d/g/kids-watch-2-beautiful-combo-ben-10-spider-man-projector-cl-0-24-original-imafaagc36xqafmf.jpeg?q=50','Spiderman Ben10 Combo');
+insert into products values('KA1','Watch','Kids',0,400,10,'https://imshopping.rediff.com/imgshop/800-1280/shopping/pixs/16284/p/prooooooo._24-cartoon-projector-and-digital-watch-for-kids.jpeg','5 Set Colorful Watch');
+insert into products values('KA1','Watch','Kids',40,300,0,'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnB2idhW0sC3Bj3oz88Rw58Joxsue66zhsIg&usqp=CAU','Blue Orange Kids Watch');
+
+insert into products values('KA2','HairBand','Kids',8,250,0,'https://cdn.shopclues.com/images/thumbnails/67353/320/320/301491289593.jpg','Flower Hairband');
+insert into products values('KA2','HairBand','Kids',0,500,20,'https://5.imimg.com/data5/QV/UR/ZX/SELLER-64329850/8-500x500.png','3 Beautiful Hairband Combo');
+
+insert into products values('KA3','Bag','Kids',41,600,0,'https://3.imimg.com/data3/PO/JY/MY-3839487/kids-school-bag-500x500.jpg','Mickey Mouse School Bag');
+insert into products values('KA3','Bag','Kids',64,760.99,5,'https://m.media-amazon.com/images/I/71LI-hQkJXL._UX425_.jpg','Doraemon School Bag');
+insert into products values('KA3','Bag','Kids',94,1340,0,'https://5.imimg.com/data5/CO/DI/MY-12463178/kids-travel-bag-500x500.jpg','Trolley Style Kids Bag');
+
+insert into products values('E1','Mobile','Electronics',20,13580,10,'https://i.gadgets360cdn.com/products/large/redmi-note-10s-db-600x800-1620030866.jpg','Redmi Note 10s');
+insert into products values('E1','Mobile','Electronics',20,15000,0,'https://m.media-amazon.com/images/I/71geVdy6-OS._SX569_.jpg','OPPO A74 5G');
+insert into products values('E1','Mobile','Electronics',0,12000,10,'https://img.tatacliq.com/images/i7/437Wx649H/MP000000009451171_437Wx649H_202104280331211.jpeg','Realme 8 5G');
+insert into products values('E1','Mobile','Electronics',200,18000,0,'https://assetscdn1.paytm.com/images/catalog/product/M/MO/MOBVIVO-Y72-5G-KIAA2228022F608AF4/1626347673318_0..jpg','Vivo Y72 5G');
+
+insert into products values('E2','Earbud','Electronics',0,2900,10,'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MX412?wid=2104&hei=2980&fmt=jpeg&qlt=95&.v=1580420170758','Boat Wireless Headphones');
+insert into products values('E2','Earbud','Electronics',40,1700,10,'https://images-na.ssl-images-amazon.com/images/I/61YS6mXB5UL._SL1500_.jpg','Boat Bluetooth Earbuds');
+insert into products values('E2','Earbud','Electronics',210,2000,0,'https://www.sony.com/image/0db517b7884d87c665c1ca403bc22ce2?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF','Sony Bluetooth Headphones');
+insert into products values('E2','Earbud','Electronics',29,1500.45,0,'https://fdn.gsmarena.com/imgroot/news/21/04/nokia-earbuds-lite-hmd-mobile/headphones/inline/-1200/gsmarena_001.jpg','Nokia Bluetooth Earbuds');
+
+insert into products values('E3','Laptop','Electronics',20,58900,10,'https://m.media-amazon.com/images/I/81KoSSAwH2L._SL1500_.jpg','Microsoft Surface Laptop Go');
+insert into products values('E3','Laptop','Electronics',0,49000,0,'https://notebookspec.com/nbs/upload_notebook/20210202-021833_c.jpg','HP Notebook');
+insert into products values('E3','Laptop','Electronics',280,42800.99,0,'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Huawei_Matebook_2-in-1_tablet_with_Windows_10_%2826627141971%29.jpg/290px-Huawei_Matebook_2-in-1_tablet_with_Windows_10_%2826627141971%29.jpg','Huawei Matebook Tablet');
+insert into products values('E3','Laptop','Electronics',20,56000,20,'https://m.media-amazon.com/images/I/81mZ4eDWYkL._AC_SY355_.jpg','Asus VivoBook');
+
+insert into products values('E4','Fridge','Electronics',20,17580,0,'https://m.media-amazon.com/images/I/71-XsJoSe1L._SL1500_.jpg','Godrej 2 Star Fridge');
+insert into products values('E4','Fridge','Electronics',0,60779,0,'https://cdn.shopify.com/s/files/1/0197/1503/1102/products/llsbs1.jpg?v=1621607783','Whirlpool 2 Door Fridge');
+insert into products values('E4','Fridge','Electronics',320,80000,20,'https://5.imimg.com/data5/UB/VX/HZ/ANDROID-105122817/product-jpeg-500x500.jpg','Samsung Ice Maker Fridge');
+insert into products values('E4','Fridge','Electronics',20,15790,30,'https://cdn.moglix.com/p/1Epr8dUWEOAPO.png','Samsung 1 Door Fridge');
+
+insert into products values('E5','Television(TV)','Electronics',120,60000,0,'https://www.myg.in/images/detailed/18/gconnect1.jpg','Sony LCD Flat TV');
+insert into products values('E5','Television(TV)','Electronics',20,54700,0,'https://images.philips.com/is/image/PhilipsConsumer/55PUT6103S_94-IMS-en_IN?$jpglarge$&wid=960','Philips Flat LCD TV');
+insert into products values('E5','Television(TV)','Electronics',0,44480,10,'https://5.imimg.com/data5/KG/OR/OJ/SELLER-47616313/55-inch-smart-4k-led-tv-500x500.jpeg','i-Sun LED Flat Screen');
+insert into products values('E5','Television(TV)','Electronics',20,64900.99,0,'https://i.pinimg.com/originals/df/91/a6/df91a680cc80a916014db80c01c3cda1.jpg','Samsung Large LCD Flat');
